@@ -1,1 +1,2 @@
 Fichero remoto 2
+Editamos el fichero 1
